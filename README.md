@@ -17,10 +17,8 @@ cd CRUD-Exp-Cria-main
 ```
 
 ### 2. Configuração do Banco de Dados
-1. Abra o MySQL e execute o script SQL:
-```bash
-mysql -u root -p < sql.sql
-```
+1. Abra o MySQL e execute o script SQL: sql.sql
+
 Isso criará o banco de dados `crud_cria` e as tabelas necessárias.
 
 ### 3. Configuração do Backend
@@ -66,25 +64,6 @@ npm run dev
 ```
 O frontend estará rodando em http://localhost:5173
 
-## Funcionalidades
-
-- Listagem de todos os usuários
-- Visualização de detalhes do usuário
-- Criação de novos usuários
-- Edição de usuários existentes
-- Exclusão de usuários
-- Validação de formulários
-- Design responsivo
-
-## Tecnologias Utilizadas
-
-- Frontend:
-  - React
-  - TypeScript
-  - Vite
-  - TailwindCSS
-  - React Router DOM
-  - Shadcn/ui
 
 - Backend:
   - Express.js
