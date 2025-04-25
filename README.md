@@ -12,7 +12,7 @@ Uma aplicação CRUD completa construída com React + TypeScript (frontend) e Ex
 
 ### 1. Clone o repositório
 ```bash
-git clone [url-do-repositório]
+git clone https://github.com/RenanPamplona/CRUD-Exp-Cria.git
 cd CRUD-Exp-Cria-main
 ```
 
