@@ -63,9 +63,3 @@ npm install
 npm run dev
 ```
 O frontend estará rodando em http://localhost:5173
-
-
-- Backend:
-  - Express.js
-  - MySQL
-  - Node.js
